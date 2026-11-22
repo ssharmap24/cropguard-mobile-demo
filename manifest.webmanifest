@@ -1,0 +1,25 @@
+{
+  "name": "CropGuard AI \u2014 Rover Controller (Demo)",
+  "short_name": "CropGuard",
+  "description": "Offline simulation of CropGuard rover mobile controls and crop sessions. No hardware connection.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef3ed",
+  "theme_color": "#102c24",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
