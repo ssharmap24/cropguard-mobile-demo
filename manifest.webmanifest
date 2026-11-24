@@ -1,7 +1,7 @@
 {
-  "name": "CropGuard AI \u2014 Rover Controller (Demo)",
+  "name": "CropGuard AI \u2014 Rover Controller",
   "short_name": "CropGuard",
-  "description": "Offline simulation of CropGuard rover mobile controls and crop sessions. No hardware connection.",
+  "description": "Connect to your live CropGuard dashboard on a trusted local network.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
